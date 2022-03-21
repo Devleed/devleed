@@ -6,7 +6,7 @@
 ### <div align="center">I'm Waleed, a full-time software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working in [Xord](https://github.com/rishavanand/github-profilinator) as a software engineer  
+- 🔭 I’m currently working in [Xord](https://github.com/XORD-one) as a software engineer  
   
 
 - 🌱 I’m currently learning Rust  
