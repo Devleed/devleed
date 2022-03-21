@@ -1,4 +1,6 @@
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/156c0778-73f4-4ab8-80c9-20adeefdab7c/d5v0xzf-08beefec-00fd-4a5a-9973-8ab24cd5e1ab.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1NmMwNzc4LTczZjQtNGFiOC04MGM5LTIwYWRlZWZkYWI3Y1wvZDV2MHh6Zi0wOGJlZWZlYy0wMGZkLTRhNWEtOTk3My04YWIyNGNkNWUxYWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xVw7LHKurJhL1YHouBN0mvg440oD-sjIrmArjo7uwfo)  
+<div align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/156c0778-73f4-4ab8-80c9-20adeefdab7c/d5v0xzf-08beefec-00fd-4a5a-9973-8ab24cd5e1ab.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1NmMwNzc4LTczZjQtNGFiOC04MGM5LTIwYWRlZWZkYWI3Y1wvZDV2MHh6Zi0wOGJlZWZlYy0wMGZkLTRhNWEtOTk3My04YWIyNGNkNWUxYWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xVw7LHKurJhL1YHouBN0mvg440oD-sjIrmArjo7uwfo" align="center" height="" width="" />
+</div>  
   
 
 ### <div align="center">I'm Waleed, a full-time software engineer 👨‍💻</div>  
@@ -20,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -38,7 +40,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -61,10 +63,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
