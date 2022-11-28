@@ -2,7 +2,7 @@
   
 
 - 🔭 I’m currently working in [Xord](https://github.com/XORD-one) as a software engineer  
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently exploring DEFI
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ I'm looking to collaborate if you have a great idea  
   
@@ -85,9 +85,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=devleed&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
