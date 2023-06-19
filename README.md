@@ -1,8 +1,7 @@
 ### <div align="center">I'm Waleed, a full-time software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working in [Xord](https://github.com/XORD-one) as a software engineer  
-- 🌱 I’m currently exploring DEFI
+- 🌱 I’m currently exploring DEFI and learning RUST
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ I'm looking to collaborate if you have a great idea  
   
