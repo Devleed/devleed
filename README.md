@@ -1,7 +1,7 @@
 ### <div align="center">I'm Waleed, a full-time software engineer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently enhancing my backend skills and working on a CLI crypto wallet
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ I'm looking to collaborate if you have a great idea  
   
